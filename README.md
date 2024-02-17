@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Garv-student
 - 👀 I’m interested in cyber security
-- 🌱 I’m currently learning basics 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning basics of C++,HTML,CSS,python.
+- 💞️ I’m looking to collaborate on TECH GEEKS
 - 📫 How to reach me garvpankaj22@gmail.com 
 
 <!---
